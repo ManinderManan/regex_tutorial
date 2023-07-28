@@ -47,5 +47,5 @@ Summary
 I have selected a regular expression for an email address and this is what the regular expression is:
 Matching an Email – /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
-GitHub Gist:
+GitHub Gist: https://github.com/ManinderManan/regex_tutorial/blob/main/gist-template.md
 
